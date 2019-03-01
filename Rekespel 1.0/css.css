@@ -1,0 +1,53 @@
+body{
+font-family: 'Indie Flower', cursive;
+background-image:url(img/background.jpg); ;
+font-size: 100px;
+}
+input{
+font-family: 'Indie Flower', cursive;
+font-size: 60px;
+width: 30%;
+height: 4x0px;
+text-align: center;
+
+}
+.blauw{color: blue;}
+.rood{color:red;}
+.grijs{color:grey;}
+.oranje{color:gold;}
+.paars{color:fuchsia;}
+.groen{color:green;}
+.geel{color: yellow;}
+.roze{color:pink;}
+#head{
+	font-size: 30px;
+	font-weight: 900;
+}
+.head{
+	font-size: 30px;
+
+}
+.sum{
+	font-size: 60px;
+	height: 100%;
+}
+#cijfer1 #cijfer2 #multiply{
+	font-size: 100px;
+}
+
+.wrapper{
+	width: 30%;
+	margin: auto;
+    width: 30%;
+    border: 9px ridge #13C4A3;
+    padding: 10px;
+    text-align: center;
+    background-color: #36F1CD;
+    border-radius: 5px;
+}
+
+div #head #wrapper{
+
+	text-align: center;
+	font-size: 100px;
+}
